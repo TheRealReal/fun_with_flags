@@ -1,5 +1,10 @@
 # FunWithFlags
 
+This repository has been archived.
+
+📚 Archived Status:
+This repository is no longer actively maintained or updated. It is being preserved for historical reference or potential future use. Issues, pull requests, and contributions are no longer accepted.
+
 [![Build Status](https://travis-ci.org/tompave/fun_with_flags.svg?branch=master)](https://travis-ci.org/tompave/fun_with_flags)
 [![Hex.pm](https://img.shields.io/hexpm/v/fun_with_flags.svg)](https://hex.pm/packages/fun_with_flags)
 [![hexdocs.pm](https://img.shields.io/badge/docs-1.4.0-brightgreen.svg)](https://hexdocs.pm/fun_with_flags/)
